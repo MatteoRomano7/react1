@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+div img {
+  width: 15em;
+}
+
+button {
+  color: black;
+  background-color: orange;
+  font-weight: bold;
+  width: 6em;
+}
+button:hover {
+  cursor: pointer;
+}
